@@ -5,7 +5,7 @@
 *  Mobile applications with meaningful utility
 *  AI-powered features that enhance everyday workflows
 
-From note-taking systems to atmospheric games, we explore the intersection of **technology, creativity and human experience**.
+From note-taking systems to atmospheric video games, we explore the intersection of **technology, creativity and human experience**.
 
 ---
 
