@@ -1,6 +1,4 @@
-##  Clerusync
-
-**Clerusync** focuses on developing:
+##  Clerusync focuses on developing:
 
 *  Smart productivity tools
 *  Experimental games & interactive experiences
