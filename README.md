@@ -41,7 +41,7 @@ AI: NLP, summarisation and automation
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome collaboration!
 
