@@ -61,7 +61,7 @@ git push origin feature/amazing-feature
 
 ##  Contact
 
-*  Email: [info@clerusync.com](mailto:info@clerusync.com) *(update if needed)*
+*  Email: [info@clerusync.com](mailto:info@clerusync.com) 
 *  Website: https://clerusync.com
 
 ---
