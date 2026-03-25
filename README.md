@@ -33,7 +33,7 @@ We work across a wide range of technologies:
 
 ```bash
 Frontend: React / Flutter / Swift
-Backend: Node.js / Python
+Backend: Node.js / Python / C# 
 Mobile: Android / iOS
 Game Dev: Unity / Custom Engines
 AI: NLP, summarisation and automation
